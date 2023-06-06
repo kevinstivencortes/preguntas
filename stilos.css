@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: wheat;
+}
+
+option{
+    font-size: 20px;
+    background-color: rgb(183, 222, 209);
+}
+
+p{
+    font-size: 25px;
+    margin: 20px;
+    
+}
+
+select{
+    font-size: 20px;
+    cursor: pointer;
+}
+
+button{
+    font-size: 25px;
+    display: inline-block;
+    border-radius: 10px;
+    color: black;
+    cursor: pointer;
+    text-align: center;
+    padding: 3px;
+}
+button:hover{
+    background-color: rgb(33, 141, 168);
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(142, 196, 196);
+    padding: 20px;
+}
